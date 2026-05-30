@@ -1,7 +1,7 @@
 {
   "name": "pi-timestamp",
-  "version": "1.0.1",
-  "description": "Pi extension \u2014 auto-prepend timestamp to every user message",
+  "version": "2.0.0",
+  "description": "Pi extension \u2014 inject timestamp via system prompt + custom message",
   "license": "MIT",
   "author": "gengcheng",
   "type": "module",
