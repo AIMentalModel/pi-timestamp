@@ -1,13 +1,29 @@
 {
   "name": "pi-timestamp",
   "version": "1.0.0",
-  "description": "Pi extension — auto-prepend timestamp to every user message",
+  "description": "Pi extension \u2014 auto-prepend timestamp to every user message",
   "license": "MIT",
   "author": "gengcheng",
   "type": "module",
   "main": "timestamp.ts",
-  "keywords": ["pi", "pi-extension", "timestamp", "time"],
-  "pi": { "extensions": ["./timestamp.ts"] },
-  "files": ["timestamp.ts", "LICENSE", "README.md"],
-  "repository": { "type": "git", "url": "https://github.com/gengcheng/pi-timestamp" }
+  "keywords": [
+    "pi",
+    "pi-extension",
+    "timestamp",
+    "time"
+  ],
+  "pi": {
+    "extensions": [
+      "./timestamp.ts"
+    ]
+  },
+  "files": [
+    "timestamp.ts",
+    "LICENSE",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AIMentalModel/pi-timestamp.git"
+  }
 }
