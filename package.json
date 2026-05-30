@@ -1,12 +1,13 @@
 {
   "name": "pi-timestamp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pi extension \u2014 auto-prepend timestamp to every user message",
   "license": "MIT",
   "author": "gengcheng",
   "type": "module",
   "main": "timestamp.ts",
   "keywords": [
+    "pi-package",
     "pi",
     "pi-extension",
     "timestamp",
